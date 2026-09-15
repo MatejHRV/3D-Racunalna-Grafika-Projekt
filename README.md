@@ -1,6 +1,6 @@
 # The Backrooms (Found Footage) - Projekt
 
-Konačna animacija može se pronaći [ovdje].(https://youtu.be/DwRUjPwQwSo)
+Konačna animacija može se pronaći [ovdje](https://youtu.be/DwRUjPwQwSo).
 
 U datoteci `seminar_Matej_Bogdanovic.pdf` nalazi se postupak izrade projekta te problemi i rješenja.
 
