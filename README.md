@@ -7,3 +7,5 @@ U datoteci `seminar_Matej_Bogdanovic.pdf` nalazi se postupak izrade projekta te 
 U datoteci `projekt_prezentacija_Matej_Bogdanovic.pptx` nalazi se prezentacija upotrebljena za izlaganje projekta.
 
 U datoteci `Backrooms.blend` nalazi se Blender mapa projekta prije konačnog renderanja.
+
+Za izradu projekta nije upotrebljena umjetna inteligencija.
